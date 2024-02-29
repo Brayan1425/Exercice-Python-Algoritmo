@@ -3,3 +3,5 @@ pi = 3,1416
 import math
 areaCirculo = math.pi *(radiocirculo**2)
 print("el area del cirlo es", (areaCirculo))
+
+#paversifunciona
